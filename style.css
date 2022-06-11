@@ -1,0 +1,21 @@
+body{
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+ justify-content: space-between;
+ cursor: url(aim.png), default;
+ 
+}
+
+.jar{
+  
+   position: absolute;
+   height: 145px;
+   width: 147px;
+   background-image: url(Drinks-02.png);
+
+    
+}
+.die {
+    transform: rotateX(86deg);
+   }
